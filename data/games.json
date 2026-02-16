@@ -1,0 +1,26 @@
+[
+  {
+    "slug": "vs-riverhawks-2026-02-22",
+    "date": "2026-02-22",
+    "time": "2:00 PM",
+    "opponent": "Riverhawks",
+    "location": "Home Gym",
+    "result": "",
+    "notes": "Season opener.",
+    "boxScore": [
+      {
+        "player": "Player 1",
+        "pts": 12,
+        "reb": 6,
+        "ast": 3
+      },
+      {
+        "player": "Player 2",
+        "pts": 9,
+        "reb": 4,
+        "ast": 5
+      }
+    ],
+    "videoUrl": ""
+  }
+]
